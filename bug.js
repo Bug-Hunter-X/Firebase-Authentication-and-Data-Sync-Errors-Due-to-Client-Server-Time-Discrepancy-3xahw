@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the client's local time is significantly different from the server's time.  This can cause authentication issues or data synchronization problems. This error is not always immediately obvious, as it might manifest as seemingly random failures.
